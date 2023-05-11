@@ -1,0 +1,1 @@
+As we have tried to contact the technical team regarding the language we needed to use in order to integrate with the 5ire blockchain but they didn't respond and we decided as a team to keep our project written in JAVA 
