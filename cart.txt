@@ -1,0 +1,16 @@
+Apples 2 2.49 0 Red Delicious, 1 lb
+Beef 1 4.99 0 80% lean, 1 lb
+Milk 1 3.29 0 2%, 1 gallon
+Bread 1 2.99 0 Whole wheat, 1 loaf
+Eggs 1 1.99 0 Large, cage-free, 1 dozen
+Cheese 1 4.49 0 Cheddar, 8 oz
+Chicken 1 6.99 0 Boneless, skinless, 1 lb
+Cereal 1 3.99 0 Honey Nut Cheerios, 12.5 oz
+Pasta 1 1.99 0 Spaghetti, 1 lb
+Rice 1 2.49 0 Basmati, 1 lb
+Butter 1 2.99 0 Unsalted, 1 lb
+Yogurt 1 1.29 0 Plain, non-fat, 6 oz
+Broccoli 1 1.99 0 Fresh, 1 lb
+Tomatoes 1 0.99 0 Roma, 1 lb
+Carrots 1 0.99 0 Baby, 1 lb
+Bananas 1 0.49 0 Yellow, 1 lb
