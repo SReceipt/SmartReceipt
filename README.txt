@@ -38,7 +38,3 @@ This project was developed by a team of talented and dedicated developers, inclu
 
 
 We'd like to extend our thanks to the organizers of the 5ire x ADU Hackathon for providing us with this opportunity, and to our fellow participants for inspiring us with their creativity and innovation. We look forward to continuing to develop and refine Smart Receipt, and to sharing our findings with the wider developer and environmental communities.
-
-## Note
-
-As we have tried to contact the technical team regarding integrating our application with 5ire blockchain but they didn't respond, so as a team, we have currently decided to keep our project blueprint written in Java, given our current knowledge and expertise. However, it is important to note that the project is still incomplete and not functional at this stage. We are continuously exploring and evaluating different options and technologies to improve and enhance the project's functionality and efficiency..
